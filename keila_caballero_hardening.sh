@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #KEILA CABALLERO#
-#AUTOMATIZACION DE TAREAS DE HARDENING
+#AUTOMATIZACION DE TAREAS DE HARDENING FEMSA
 
 centos=$(grep 'NAME="CentOS Linux"' /etc/os-release)
 ubuntu=$(grep 'NAME="Ubuntu"' /etc/os-release)
